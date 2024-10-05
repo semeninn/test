@@ -5,11 +5,13 @@ background-image : url(ris1.png) ;
 
 .left
 {
-float="left"
+float="left";
+  width:30%;
 }
 
 
 .right
 {
-float="right"
+float="right";
+    width:70%;
 }
