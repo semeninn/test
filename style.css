@@ -2,3 +2,9 @@ BODY {
 background-color : #FFEE8C ;
 background-image : url(ris1.png) ;
 }
+
+.left
+{
+float="left"
+}
+
