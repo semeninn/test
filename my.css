@@ -15,3 +15,12 @@ float="left";
 float="right";
     width:70%;
 }
+
+   @keyframes show {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
